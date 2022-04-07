@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string-array name="panels">
+        <item>Панель навигации</item>
+        <item>Панель поиска</item>
+        <item>Панель информации</item>
+    </string-array>
+
+</resources>
